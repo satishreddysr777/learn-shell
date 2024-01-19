@@ -14,5 +14,5 @@ Here are the topics of the shell.
 8. Exit Status
 9. Inputs
 10. SED Editor -> Parking for later time
-11. 
+
 We are going to learn BASH SHELL
