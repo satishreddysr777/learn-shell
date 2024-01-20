@@ -16,9 +16,9 @@ echo Hello world
 # \e[0m -> Disable the color
 # Input needs to be in double quotes.
 
-echo -e "\e31mHello World\e[0m"
-echo -e "\e32mHello World\e[0m"
-echo -e "\e33mHello World\e[0m"
-echo -e "\e34mHello World\e[0m"
-echo -e "\e35mHello World\e[0m"
-echo -e "\e36mHello World\e[0m"
+echo -e "\e[31mHello World\e[0m"
+echo -e "\e[32mHello World\e[0m"
+echo -e "\e[33mHello World\e[0m"
+echo -e "\e[34mHello World\e[0m"
+echo -e "\e[35mHello World\e[0m"
+echo -e "\e[36mHello World\e[0m"
